@@ -7,7 +7,8 @@ public class Main {
 		System.out.println("Line 3");
 		System.out.println("Line 4");
 		System.out.println("Line 5");
-        System.out.Println("Line 6");
+        System.out.println("Line 6");
+        System.out.println("Line 7");
 	}
 
 }
